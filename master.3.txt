@@ -1,13 +1,6 @@
 Rambabu kuruva 
 Hafezzul kareem
 Ravi teja
-Anil 
-preethi
-Jahnavi
-Hari
-Rakesh
-hello
-sdafsadfsdfsdafsadfsadfsdf
 kurnool district
 preethi
 Jahnavi
@@ -15,7 +8,5 @@ Hari
 Rakesh
 Srikanth 
 Lavanya
-<<<<<<< HEAD
-=======
 hii ra
->>>>>>> master
+
