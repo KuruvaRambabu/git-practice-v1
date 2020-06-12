@@ -2,9 +2,10 @@ React
 Mobx
 CSS
 HTML
-Emotion
+
 Tailwind
 Bootstrap
 C
 Python
 TestCases
+JavaScript
